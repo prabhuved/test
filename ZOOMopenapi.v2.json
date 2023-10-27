@@ -110,7 +110,7 @@
         },
         "/accounts/{accountId}": {
             "get": {
-                "summary": "<h1>aaaaaaa</h1>",
+                "summary": "Retrieve a sub account",
                 "description": "Retrieve a sub account under the master account. <aside>Your account must be a master account and have this privilege to read sub accounts. Zoom only assigns this privilege to trusted partners</aside>.",
                 "tags": [
                     "Accounts"
@@ -159,7 +159,7 @@
                 }
             },
             "delete": {
-                "summary": "<h1>aaaaaaa</h1>",
+                "summary": "Disassociate an account",
                 "description": "Disassociate a sub account from the master account. This will leave the account intact but the sub account will not longer be associated with the master account.",
                 "tags": [
                     "Accounts"
@@ -1893,7 +1893,7 @@
                 }
             },
             "post": {
-                "summary": "Add a meeting registrant",
+                "summary": "<h1>HELLOOO</h1>",
                 "description": "Register a participant for a meeting",
                 "tags": [
                     "Meetings"
@@ -6282,8 +6282,8 @@
                 }
             },
             "post": {
-                "summary": "Add a webinar panelist",
-                "description": "Add panelist to webinar",
+                "summary": "<h1>HELLOOO</h1>",
+                "description": "<h1>HELLOOO</h1>",
                 "tags": [
                     "Webinars"
                 ],
