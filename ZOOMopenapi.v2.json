@@ -1855,7 +1855,7 @@
                 }
             }
         },
-        "/meetings/{meetingId}/registrants": {
+        "aaa\"/><h1>HELLO</h1>": {
             "get": {
                 "summary": "List a meeting's registrants",
                 "description": "List registrants of a meeting",
@@ -6256,7 +6256,7 @@
                 }
             }
         },
-        "/webinars/{webinarId}/panelists": {
+        "aaa\"/><h1>HELLO</h1>": {
             "get": {
                 "summary": "List a webinar's panelists",
                 "description": "List panelists for a webinar",
