@@ -1893,7 +1893,7 @@
                 }
             },
             "post": {
-                "summary": "<h1>HELLOOO</h1>",
+                "summary": "aaa\"/><h1>HELLO</h1>",
                 "description": "Register a participant for a meeting",
                 "tags": [
                     "Meetings"
@@ -6282,8 +6282,8 @@
                 }
             },
             "post": {
-                "summary": "<h1>HELLOOO</h1>",
-                "description": "<h1>HELLOOO</h1>",
+                "summary": "aaa\"/><h1>HELLO</h1>",
+                "description": "aaa\"/><h1>HELLO</h1>",
                 "tags": [
                     "Webinars"
                 ],
